@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuMainItemCountry"
+        android:title="Country" />
+    <item
+        android:id="@+id/menuMainItemRegion"
+        android:title="Region" />
+    <item
+        android:id="@+id/menuMainItemLogout"
+        android:title="Logout" />
+</menu>
